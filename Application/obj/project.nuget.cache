@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xm8nPWpAUVvcK/umaCEOZva110J7IIUwpJsK+3x93oERkb2noRoY88GsL1vYHXE2tl90J8EJ9ju/T9g+k60PHw==",
+  "success": true,
+  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
