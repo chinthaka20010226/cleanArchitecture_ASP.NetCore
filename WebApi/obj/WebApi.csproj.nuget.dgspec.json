@@ -4,6 +4,201 @@
     "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +222,17 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj"
+              },
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj"
+              },
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
