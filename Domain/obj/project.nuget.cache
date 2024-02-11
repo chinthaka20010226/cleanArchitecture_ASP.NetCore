@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jea64Gilx/+vN+LaEC/YOJvh0gKcEuElRyFxhVMeHznSOhC6o/UukizpT5qgZnkhVK6Fecm8ra8yLqs/SmZdHg==",
+  "dgSpecHash": "/zK/sPcpeScKf1jnmwt1WAqWfEkrAhLk3kFcyEx/8YwiFW3NjNR60IemK4a5BJzb0+0d5FPj5KQpljAb/mKzAQ==",
   "success": true,
-  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

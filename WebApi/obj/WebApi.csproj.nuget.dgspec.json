@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj": {}
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -199,14 +199,14 @@
         }
       }
     },
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,14 +223,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj": {
-                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Application\\Application.csproj"
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Application\\Application.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Application\\Application.csproj"
               },
-              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj"
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj"
               },
-              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj": {
-                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Presentation\\Presentation.csproj"
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Presentation\\Presentation.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Presentation\\Presentation.csproj"
               }
             }
           }

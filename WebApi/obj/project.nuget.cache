@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "30xEU39VbCxxPtPP+lBHkz1j/w9clbVFpkrbufDCF0zr8HNTdBAaAitM5nCRipXkEhYFuPev74RteeN6ALx49Q==",
+  "dgSpecHash": "ouvaUoIbMiFX6hp22U+H3Isq/sNwUe2Cy4XwpTHAUUhVQr5GQgDQPTqaYQgmIKEzvf7bl6MzkbukUJGMojhdBA==",
   "success": true,
-  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",

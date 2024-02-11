@@ -10,13 +10,20 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+/*******************************************/
+
+// Layer Configuration
 builder.Services
     .AddApplication()
     .AddInfrastructure()
     .AddPresentation();
 
+
+// Serilog Configuration
 builder.Host.UseSerilog((context, configuration) =>
 configuration.ReadFrom.Configuration(context.Configuration));
+
+/**********************************************/
 
 var app = builder.Build();
 
@@ -27,7 +34,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+/**********************************************/
+
+// Introduce Http request loging
 app.UseSerilogRequestLogging();
+
+/*********************************************/
 
 app.UseHttpsRedirection();
 

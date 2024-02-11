@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\HRLeaveManagement\\Infrastructure\\obj\\",
+      "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureStructure\\HRLeaveManagement\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
